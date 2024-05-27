@@ -1,7 +1,7 @@
 # rn-assignment2-ID-11158912
 React Native App with a blank template
 <!-- First Run -->
-!([New Folder With Items](https://github.com/DylanGates/rn-assignment2-ID-11158912/tree/main/New%20Folder%20With%20Items)/IMG_3029.PNG)
+![Tiloid Website](img/tiloid-logo.png)
 <!-- Background Change -->
 ![IMG_3030.PNG](..%2F..%2F..%2F..%2FIMG_3030.PNG)
 <!-- Text Change -->
